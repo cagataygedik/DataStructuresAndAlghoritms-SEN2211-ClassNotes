@@ -6,11 +6,11 @@ public class LinkedList {
 	private Node last; 
 	
 	public LinkedList() {
-		first= null;last= null;
+		first = null;last= null;
 		}
 	
 	public boolean isEmpty() {
-		return(first== null); 
+		return(first == null); 
 		}
 	
 	//Inserting new node to the front.
